@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "chat.qqlink.com",
-               "sha256_cert_fingerprints": ["EF:34:46:F6:9E:ED:20:FB:28:B4:77:C2:17:0A:10:86:2B:23:7B:2B:6D:18:A2:EE:5D:75:F0:84:05:DD:CA:B2"] }
-}]
