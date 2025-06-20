@@ -1,9 +1,11 @@
 {
-  "apps": [],
-  "details": [
-    {
-      "appID": "9QXR8GK5HL.com.qqlink.ios",
-      "paths": ["/*"]
-    }
-  ]
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9QXR8GK5HL.com.qqlink.ios",
+        "paths": ["/*"]
+      }
+    ]
+  }
 }
